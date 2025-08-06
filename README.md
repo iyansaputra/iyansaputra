@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sofian!
 
-<!--
-**iyansaputra/iyansaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A fresh graduate in Informatics with a strong passion for backend development and web technologies.
 
-Here are some ideas to get you started:
+💻 Experienced in building RESTful APIs using Laravel, managing MySQL databases, and collaborating in team-based projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Recently involved in:
+- Migrating an academic OBE system from web to Android platform during my internship at PT. iGS Indonesia Groups.
+- Leading backend development of **Stuntify**, a child stunting monitoring app from the Bangkit Academy program.
+- Developing a GloVe-LSTM-based essay scoring system as my undergraduate thesis.
+
+🔧 Tech stack I enjoy working with:
+- PHP (Laravel), MySQL, HTML/CSS, JavaScript
+- Postman, Firebase, GitHub, Cloud Hosting (shared/VPS)
+
+🧠 Always learning, always building — open for collaboration, freelance, or full-time opportunities.
+
+## 📌 Highlight Projects
+- [🧠 GloVe-LSTM Essay Scoring](https://github.com/iyansaputra/GloVe-LSTM-Essay-Scoring)  
+  NLP-based final thesis project to evaluate student essays.
+
+- [📱 Stuntify App](https://github.com/iyansaputra/Stuntify-550)  
+  Full-stack web app to monitor child stunting across Indonesia.
+
+- [📦 OBE System Migration](https://github.com/iyansaputra/obe-system)  
+  Laravel backend and API for Android-based education system.
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ahmadsofianarissaputra)
+📩 Email: [ahmadsofianarissaputra@gmail.com](mailto:ahmadsofianarissaputra@gmail.com)
+
+---
