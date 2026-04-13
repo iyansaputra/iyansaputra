@@ -53,8 +53,8 @@ Migrasi sistem akademik Outcome-Based Education (OBE) dari web ke platform Andro
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyansaputra&show_icons=true&theme=radical" alt="Iyan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyansaputra&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iyansaputra&show_icons=true&theme=radical&v=1" alt="Iyan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyansaputra&layout=compact&theme=radical&v=1" alt="Top Langs" height="150" />
 </p>
 
 ---
